@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="985">
+        <Placemark id="987">
+            <name>Cluster 0</name>
+            <Point id="986">
+                <coordinates>-105.1084216,38.810528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="989">
+            <name>Cluster 1</name>
+            <Point id="988">
+                <coordinates>-121.930038,37.5449477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="991">
+            <name>Cluster 2</name>
+            <Point id="990">
+                <coordinates>-94.1896403,36.3603081,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="993">
+            <name>Cluster 3</name>
+            <Point id="992">
+                <coordinates>-95.93535865,36.1330039,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="995">
+            <name>Cluster 4</name>
+            <Point id="994">
+                <coordinates>-90.0600374,35.9539135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="997">
+            <name>Cluster 5</name>
+            <Point id="996">
+                <coordinates>-87.7883682,42.0295785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="999">
+            <name>Cluster 6</name>
+            <Point id="998">
+                <coordinates>-96.558621,39.0114038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1001">
+            <name>Cluster 7</name>
+            <Point id="1000">
+                <coordinates>-81.6640579,33.9705112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1003">
+            <name>Cluster 8</name>
+            <Point id="1002">
+                <coordinates>-96.67509055,31.9294821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1005">
+            <name>Cluster 9</name>
+            <Point id="1004">
+                <coordinates>-74.0144025,40.7568517,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
